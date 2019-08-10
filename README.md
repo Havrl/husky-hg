@@ -1,3 +1,5 @@
+# Only installs precommit hook and using shell=True to fix npm path in Windows 10. 
+
 # husky-hg [![](http://img.shields.io/npm/dm/husky-hg.svg?style=flat)](https://www.npmjs.org/package/husky-hg) [![npm version](https://badge.fury.io/js/husky-hg.svg)](https://www.npmjs.com/package/husky-hg) [![Mac/Linux Build Status](https://img.shields.io/travis/tobiastimm/husky-hg/master.svg?label=Mac%20OSX%20%26%20Linux)](https://travis-ci.org/tobiastimm/husky-hg) [![Windows Build status](https://img.shields.io/appveyor/ci/tobiastimm/husky-hg/master.svg?label=Windows)](https://ci.appveyor.com/project/tobiastimm/husky-hg/branch/master)
 
 > Git / Mercurial hooks made easy.
